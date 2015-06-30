@@ -1,3 +1,0 @@
-"Warning: One is not two. Value 1 is not equal to 2"
-"Warning: TestAssert, One is not two. Value 1 is not equal to 2"
-"Warning: TestAssert, One is not not equal to one. Value 1 is not equal to 1"
