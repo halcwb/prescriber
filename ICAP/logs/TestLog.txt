@@ -1,6 +1,3 @@
-"Value: 0 is not 63
-GetDataFileName should contain Patient: C:\Users\hal\Dropbox\Development\prescriber\ICAP\..\ICAP Data\Patient.xls"
-"Value: 0 is not 63
-GetDataFileName should contain Patient: C:\Users\hal\Dropbox\Development\prescriber\ICAP\..\ICAP Data\Patient.xls"
-"Value: 0 is not 63
-GetDataFileName should contain Patient: C:\Users\hal\Dropbox\Development\prescriber\ICAP\..\ICAP Data\Patient.xls"
+"Warning: One is not two. Value 1 is not equal to 2"
+"Warning: TestAssert, One is not two. Value 1 is not equal to 2"
+"Warning: TestAssert, One is not not equal to one. Value 1 is not equal to 1"
