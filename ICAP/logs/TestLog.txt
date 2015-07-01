@@ -1,0 +1,1 @@
+"Warning: Bed 2.9 should be opened, but bed: 0 was open. Value 2.9 is not equal to 0"
