@@ -1,1 +1,0 @@
-"Warning: Close bed did not succeed. Value True is not equal to False"
