@@ -1,1 +1,6 @@
 "Warning: Bed 2.9 should be opened, but bed: 0 was open. Value 2.9 is not equal to 0"
+"Warning: Bed 2.9 should be opened, but bed: 0 was open. Value 2.9 is not equal to 0"
+"Warning: Bed 2.9 should be opened, but bed: 0 was open. Value 2.9 is not equal to 0"
+"Warning: Could not get correct patient data file from: . Value 0 is not not equal to 0"
+"Warning: Could not get correct patient data file from: C:\Users\hal\Dropbox\Development\prescriber\ICAP\..\ICAP Data\Patient2.9xls. Value 0 is not not equal to 0"
+"Warning: Bed 2.9 should be opened, but bed: 0 was open. Value 2.9 is not equal to 0"
