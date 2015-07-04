@@ -5,3 +5,6 @@
 "Warning: Opening the program did not work correctly. Value True is not equal to False"
 "Warning: Closing the program did not work correctly. Value True is not equal to False"
 "Warning: Closing the program did not work correctly. Value True is not equal to False"
+"Warning: After closing the count of workbooks should be original count. Value True is not equal to False"
+"Warning: Opening the program did not work correctly. Value True is not equal to False"
+"Warning: Closing the program did not work correctly. Value True is not equal to False"
