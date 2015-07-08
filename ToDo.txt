@@ -2,3 +2,8 @@ ToDo
 
 - Implement test for medication form
 - Externalize continuous medication table
+- Add option to set the concentration instead of calculation
+
+Technical:
+- Copy and add name to section/range
+
