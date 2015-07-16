@@ -1,5 +1,30 @@
 ToDo
 - Implement test for medication form
 - Enable error logging in case of goto error
-- Doesn't close properly
+- Doesn't close properly when other excel workbook open
+- When open, can still show formulabar
+- Duplicate open check doesn't work properly
 
+
+Requests:
+- Zou je de macrogol kunnen toevoegen aan het formularium. Gebruiken we bij veel patiënten en moet nu ieder keer apart worden ingevuld. De 4 gr/sachet en 10gr/sachet.
+Toegevoegd
+- En in het formularium van het afspraken systeem staat nog steeds fytomenadion 5mcg/druppel waarbij we altijd afspreken dat kinderen 5 dr krijgen (dit is dus maar 25 mcg/dag) . Echter de dosering van de fytomenadion die we in de kast hebben is 30 mcg/druppel waarvan we 5 druppels geven (150 mcg /dag). Met name voor telkens de nieuwe assistenten verwarrend.
+Aangepast
+- Net als Esther al schrijft: kan voor elke patient  [gewichtscategorie] worden opgestart bij continue medicatie met de standaardoplossingen.  
+Gedaan, tevens medicatie toegevoegd
+- Wat betreft de continue oplossingen: de Epiduraal oplossing er uit. Labetolol er in
+Epiduraal berekend en gespecificeerd toegevoegd
+Labetolol toegevoegd
+- bij discontinue intraveneuze medicatie:  de oplossingen en de tijdsduur waarover gegeven moet worden  [ 30 of 60 min] van gentamycine, vancomycine en erythromycine [iv] en diphantoine opnemen 
+(Nog) niet gedaan
+- wat betreft lab aanvragen ook een aankruisvakje fosfaat en d-dimeren toevoegen.
+(Nog) niet gedaan
+1.	Kun je dan ook de afspraken mbt de pacemaker verbeteren? Daar kloppen een aantal zaken niet, zodat je niet goed de pacemaker instellingen erin kunt zetten
+(Nog) doen
+2.	Kun je bij het opname lab ook een aankruisvakje maken met ‘ACT’, nu moeten we steeds bij de opmerkingen typen: ‘bij opname ACT’
+(Nog) doen
+3.	Kun je dan bij de cardiopatienten ook de labafspraken bij opname als default opnemen?
+(Nog) doen
+4.	Naar mijn weten kloppen de voedingen inderdaad niet allemaal. Alle voedingen die in het protocol ‘ondervoeding’ (https://richtlijn.mijnumc.nl/Medisch/Divisies/Kinderen/Medisch/Paginas/Ondervoeding-bij-kinderen-Algemene-pediatrie.aspx) staan, moeten er wat mij betreft zeker in
+(Nog) doen
