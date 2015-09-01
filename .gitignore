@@ -3,3 +3,6 @@
 
 # ignore temp files
 ~*.*
+
+# include install
+!install/*.*
