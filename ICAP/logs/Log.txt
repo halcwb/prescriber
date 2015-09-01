@@ -1,0 +1,6 @@
+"Info: 1, 2, 3"
+"Info: 1, 2, 3"
+"Info: 1-9-2015 14:18:21: Hello World"
+"1-9-2015 14:18:54: Info: Hello World"
+"1-9-2015 14:32:09: Info: Begin BeOpenenBed: 1.2"
+"1-9-2015 14:32:11: Info: End BeOpenBed"
