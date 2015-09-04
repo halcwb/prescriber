@@ -1,8 +1,8 @@
 # prescriber
-Excel based app to create medical prescriptions for PICU and NICU
+Excel based app to create medical prescriptions for PICU and NICU.
 
-Note that the language in use is Dutch
-Note that the current use case is a specific 14 bed PICU
+* Note that the language in use is Dutch
+* Note that the current use case is a specific 14 bed PICU
 
 ## To use the install procedure and keep the program updated
 * Download the zipfile
